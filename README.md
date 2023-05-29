@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Next, Next and Nest**
+- 🌱 I’m currently learning **Next and Nest**
 
-- 💬 Ask me about **React, Laravel, Typescript, vue, codeigniter, Next.js , Node.js, Express, HAPI, WordPress, Bigcommerce and Shopify**
+- 💬 Ask me about **React, Laravel, Typescript, Vue, Codeigniter, Next.js , Node.js, Express, HAPI, WordPress, Bigcommerce and Shopify**
 
 - 📫 How to reach me **sharma.varun76@yahoo.in**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
