@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/4749121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4749121" height="30" width="40" /></a>
 <a href="https://fb.com/sharma.varun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharma.varun7" height="30" width="40" /></a>
-<a href="https://instagram.com/varun.nirbhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun.nirbhay" height="30" width="40" /></a>
+<a href="https://instagram.com/varun_8889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun.nirbhay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user5363f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5363f" height="30" width="40" /></a>
 </p>
 
