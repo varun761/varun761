@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Crafting thoughtful digital experiences with clean code & elegant design ✨
+    Crafting thoughtful digital experiences with clean code & elegant design
   </em>
 </p>
 
@@ -12,13 +12,12 @@
 
 ---
 
-### 🌿 About Me
+### About Me
 
-- 🌱 Currently exploring **Next.js & NestJS**
-- 💡 Passionate about building **beautiful, scalable, and user-focused applications**
-- 🎯 Focused on **clean UI, smooth UX, and performance**
-- 💬 Ask me about  
-  **React, TypeScript, Node.js, Laravel, Vue, Shopify, WordPress**
+- 8+ years of experience building modern, high-performing websites
+- Passionate about creating beautiful, scalable, user-focused applications
+- Strong understanding of SEO best practices
+- Focused on **clean UI, smooth UX, and performance**
 
 ---
 
