@@ -57,7 +57,7 @@
 
 ### ✨ What I Care About
 
-- 🎨 **Design-first thinking**
+- 🎨 **Design**
 - ⚡ **Performance & scalability**
 - 📱 **Seamless cross-platform experiences**
 - 🧩 **Reusable and maintainable architecture**
@@ -70,16 +70,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun761&theme=soft&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varun761&show_icons=true&theme=default&hide_border=true" />
-</p>
-
 ---
-
-### 🌸 A Little Philosophy
-
-<p align="center">
-  <em>
-    "Good design is as little design as possible — but with intention in every detail."
-  </em>
-</p>
