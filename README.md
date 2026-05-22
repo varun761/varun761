@@ -44,7 +44,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nestjs,nodejs,ts,js,vue,laravel,php,redux,mongodb,mysql,postgres,docker,firebase,aws,git,figma,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,ts,js,vue,laravel,php,redux,mongodb,mysql,postgres,docker,firebase,aws,git,figma,tailwind,sass" />
 
 </p>
 
