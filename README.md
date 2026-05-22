@@ -39,10 +39,6 @@
 </a>
 </p>
 
-<p align="center">
-  📫 <strong>sharma.varun76@yahoo.in</strong>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
