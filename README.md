@@ -58,11 +58,3 @@
 - 🧩 **Reusable and maintainable architecture**
 
 ---
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun761&theme=soft&hide_border=true" />
-</p>
-
----
